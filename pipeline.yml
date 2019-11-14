@@ -3,7 +3,7 @@ Parameters:
   GithubOwner:
     Type: String
     Description: Name of the owner (Organization or person) in Github that owns the repo
-    Default: alanakirby
+    Default: pangorgo
 
   GithubRepo:
     Type: String
@@ -17,7 +17,7 @@ Parameters:
 
   SesRegion:
     Type: String
-    Default: us-east-1
+    Default: eu-central-1
 
   SesSenderEmail:
     Type: String
